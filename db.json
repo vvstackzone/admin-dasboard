@@ -1,0 +1,622 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple Watch Series 4",
+      "category": "Watches",
+      "price": 120,
+      "stars": 4,
+      "count": 131,
+      "image": "/img/watch-black.jpg",
+      "liked": true
+    },
+    {
+      "id": 2,
+      "name": "Apple Watch Series 5",
+      "category": "Watches",
+      "price": 149.99,
+      "stars": 5,
+      "count": 98,
+      "image": "/img/watch-beige.jpg",
+      "liked": false
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch SE",
+      "category": "Watches",
+      "price": 89,
+      "stars": 4,
+      "count": 212,
+      "image": "/img/stock1.jpg",
+      "liked": false
+    },
+    {
+      "id": 4,
+      "name": "Amazfit Vip",
+      "category": "Watches",
+      "price": 79.35,
+      "stars": 4,
+      "count": 63,
+      "image": "/img/watch-black.jpg",
+      "liked": false
+    },
+    {
+      "id": 5,
+      "name": "Fitbit Sense Smartwatch",
+      "category": "Watches",
+      "price": 129.5,
+      "stars": 4,
+      "count": 87,
+      "image": "/img/watch-beige.jpg",
+      "liked": false
+    },
+    {
+      "id": 6,
+      "name": "Garmin Venu Sport",
+      "category": "Watches",
+      "price": 175,
+      "stars": 5,
+      "count": 54,
+      "image": "/img/stock1.jpg",
+      "liked": false
+    },
+    {
+      "id": 7,
+      "name": "Microsoft Headsquare",
+      "category": "Headphones",
+      "price": 190,
+      "stars": 4,
+      "count": 45,
+      "image": "/img/stock2.jpg",
+      "liked": true
+    },
+    {
+      "id": 8,
+      "name": "Studio Wireless Headphones",
+      "category": "Headphones",
+      "price": 210,
+      "stars": 5,
+      "count": 176,
+      "image": "/img/stock2.jpg",
+      "liked": false
+    },
+    {
+      "id": 9,
+      "name": "Noise-Cancelling Headset",
+      "category": "Headphones",
+      "price": 165.75,
+      "stars": 4,
+      "count": 92,
+      "image": "/img/stock2.jpg",
+      "liked": false
+    },
+    {
+      "id": 10,
+      "name": "Bass Boost Over-Ear",
+      "category": "Headphones",
+      "price": 74.99,
+      "stars": 3,
+      "count": 38,
+      "image": "/img/stock2.jpg",
+      "liked": false
+    },
+    {
+      "id": 11,
+      "name": "Women's Evening Dress",
+      "category": "Fashion",
+      "price": 640,
+      "stars": 5,
+      "count": 35,
+      "image": "/img/stock3.jpg",
+      "liked": true
+    },
+    {
+      "id": 12,
+      "name": "Silk Maxi Dress",
+      "category": "Fashion",
+      "price": 210,
+      "stars": 4,
+      "count": 71,
+      "image": "/img/stock3.jpg",
+      "liked": false
+    },
+    {
+      "id": 13,
+      "name": "Velvet Party Gown",
+      "category": "Fashion",
+      "price": 320,
+      "stars": 4,
+      "count": 29,
+      "image": "/img/stock3.jpg",
+      "liked": false
+    },
+    {
+      "id": 14,
+      "name": "Summer Floral Dress",
+      "category": "Fashion",
+      "price": 58.4,
+      "stars": 4,
+      "count": 143,
+      "image": "/img/stock3.jpg",
+      "liked": false
+    },
+    {
+      "id": 15,
+      "name": "Samsung A50",
+      "category": "Mobile",
+      "price": 400,
+      "stars": 4,
+      "count": 67,
+      "image": "/img/stock4.jpg",
+      "liked": false
+    },
+    {
+      "id": 16,
+      "name": "Samsung Galaxy S10",
+      "category": "Mobile",
+      "price": 699,
+      "stars": 5,
+      "count": 118,
+      "image": "/img/stock4.jpg",
+      "liked": true
+    },
+    {
+      "id": 17,
+      "name": "Redmi Note 8 Pro",
+      "category": "Mobile",
+      "price": 229.99,
+      "stars": 4,
+      "count": 204,
+      "image": "/img/stock4.jpg",
+      "liked": false
+    },
+    {
+      "id": 18,
+      "name": "OnePlus 7T",
+      "category": "Mobile",
+      "price": 549,
+      "stars": 5,
+      "count": 86,
+      "image": "/img/stock4.jpg",
+      "liked": false
+    },
+    {
+      "id": 19,
+      "name": "Realme 5 Pro",
+      "category": "Mobile",
+      "price": 179,
+      "stars": 3,
+      "count": 59,
+      "image": "/img/stock4.jpg",
+      "liked": false
+    },
+    {
+      "id": 20,
+      "name": "Canon Retro Film Camera",
+      "category": "Electronics",
+      "price": 420,
+      "stars": 4,
+      "count": 52,
+      "image": "/img/stock5.jpg",
+      "liked": false
+    },
+    {
+      "id": 21,
+      "name": "Vintage SLR Camera",
+      "category": "Electronics",
+      "price": 289,
+      "stars": 4,
+      "count": 41,
+      "image": "/img/stock5.jpg",
+      "liked": false
+    },
+    {
+      "id": 22,
+      "name": "Mirrorless Camera Kit",
+      "category": "Electronics",
+      "price": 899,
+      "stars": 5,
+      "count": 77,
+      "image": "/img/stock5.jpg",
+      "liked": false
+    },
+    {
+      "id": 23,
+      "name": "Camera Tripod",
+      "category": "Electronics",
+      "price": 50,
+      "stars": 4,
+      "count": 63,
+      "image": "/img/stock5.jpg",
+      "liked": false
+    },
+    {
+      "id": 24,
+      "name": "Action Cam 4K",
+      "category": "Electronics",
+      "price": 139,
+      "stars": 3,
+      "count": 48,
+      "image": "/img/stock5.jpg",
+      "liked": false
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "Jason Price",
+      "role": "Admin",
+      "email": "janick_parisian@yahoo.com",
+      "phone": "",
+      "gender": "",
+      "photo": "/img/team1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jukkoe Sisao",
+      "role": "CEO",
+      "email": "sibyl_kozey@gmail.com",
+      "phone": "",
+      "gender": "",
+      "photo": "/img/team2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Harriet King",
+      "role": "CTO",
+      "email": "nadia_block@hotmail.com",
+      "phone": "",
+      "gender": "",
+      "photo": "/img/team3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Lenora Benson",
+      "role": "Lead",
+      "email": "feil.wallace@kunde.us",
+      "phone": "",
+      "gender": "",
+      "photo": "/img/team4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Olivia Reese",
+      "role": "Strategist",
+      "email": "kemmer.hattie@cremin.us",
+      "phone": "",
+      "gender": "",
+      "photo": "/img/team5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bertha Valdez",
+      "role": "CEO",
+      "email": "loraine.koelpin@tromp.io",
+      "phone": "",
+      "gender": "",
+      "photo": "/img/team6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Harriett Payne",
+      "role": "Digital Marketer",
+      "email": "nannie_west@estrella.tv",
+      "phone": "",
+      "gender": "",
+      "photo": "/img/team7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "George Bryant",
+      "role": "Social Media",
+      "email": "delmer.kling@gmail.com",
+      "phone": "",
+      "gender": "",
+      "photo": "/img/team8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Lily French",
+      "role": "Strategist",
+      "email": "lucienne.herman@hotmail.com",
+      "phone": "",
+      "gender": "",
+      "photo": "/img/team9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Howard Adkins",
+      "role": "CEO",
+      "email": "wiegand.leonor@herman.us",
+      "phone": "",
+      "gender": "",
+      "photo": "/img/team10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Earl Bowman",
+      "role": "Digital Marketer",
+      "email": "waino_altenwerth@nicolette.tv",
+      "phone": "",
+      "gender": "",
+      "photo": "/img/team11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Patrick Padilla",
+      "role": "Social Media",
+      "email": "octavia.nienow@gleichner.net",
+      "phone": "",
+      "gender": "",
+      "photo": "/img/team12.jpg"
+    },
+    {
+      "name": "vaishnavi vaishnavi",
+      "role": "repair",
+      "email": "vaishu@gmail.com",
+      "phone": "6383220095",
+      "gender": "Female",
+      "photo": "/img/avatar.jpg",
+      "id": 13
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Jason Price",
+      "email": "kuhlman.jermey@yahoo.com",
+      "phone": "",
+      "photo": "/img/contact1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Duane Dean",
+      "email": "rusty.botsford@wilfrid.io",
+      "phone": "",
+      "photo": "/img/contact2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jonathan Barker",
+      "email": "cora_haley@quinn.biz",
+      "phone": "",
+      "photo": "/img/contact3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rosie Glover",
+      "email": "lockman.marques@hotmail.com",
+      "phone": "",
+      "photo": "/img/contact4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Patrick Greer",
+      "email": "pearlie.eichmann@trevion.net",
+      "phone": "",
+      "photo": "/img/contact5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Darrell Ortega",
+      "email": "chaya.shields@ferry.info",
+      "phone": "",
+      "photo": "/img/contact6.jpg"
+    },
+    {
+      "name": "vaishnavi vaishnavi",
+      "email": "vaishnavi@gamil.com",
+      "phone": "6383220095",
+      "photo": "/img/avatar.jpg",
+      "id": 7
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Design Conference",
+      "start": "2019-10-02",
+      "end": "2019-10-02",
+      "time": "07:19 AM",
+      "address": "56 Davion Mission Suite 157, Meaghanberg"
+    },
+    {
+      "id": 2,
+      "name": "Weekend Festival",
+      "start": "2019-10-16",
+      "end": "2019-10-16",
+      "time": "5.00 PM",
+      "address": "853 Moore Flats Suite 158, Sweden"
+    },
+    {
+      "id": 3,
+      "name": "Glastonbury Festival",
+      "start": "2019-10-20",
+      "end": "2019-10-22",
+      "time": "8.00 PM",
+      "address": "646 Walter Road Apt. 571, Turks and Caicos Islands"
+    },
+    {
+      "id": 4,
+      "name": "Ultra Europe 2019",
+      "start": "2019-10-25",
+      "end": "2019-10-25",
+      "time": "10.00 PM",
+      "address": "506 Satterfield Tunnel Apt. 963, San Marino"
+    }
+  ],
+  "stock": [
+    {
+      "id": 1,
+      "name": "Apple Watch Series 4",
+      "category": "Digital Product",
+      "price": 690,
+      "qty": 63,
+      "image": "/img/stock1.jpg",
+      "colors": [
+        "#000000",
+        "#A3A3A3",
+        "#EE8E8E"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Microsoft Headsquare",
+      "category": "Digital Product",
+      "price": 190,
+      "qty": 13,
+      "image": "/img/stock2.jpg",
+      "colors": [
+        "#000000",
+        "#F87171",
+        "#4D8DF5",
+        "#E8BC4A"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Women's Dress",
+      "category": "Fashion",
+      "price": 640,
+      "qty": 635,
+      "image": "/img/stock3.jpg",
+      "colors": [
+        "#8E2A5A",
+        "#7FB4F5",
+        "#101340",
+        "#4338F2"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Samsung A50",
+      "category": "Mobile",
+      "price": 400,
+      "qty": 67,
+      "image": "/img/stock4.jpg",
+      "colors": [
+        "#1F2F8B",
+        "#000000",
+        "#A3204A"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Camera",
+      "category": "Electronic",
+      "price": 420,
+      "qty": 52,
+      "image": "/img/stock5.jpg",
+      "colors": [
+        "#1F2F8B",
+        "#000000",
+        "#A3204A"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Studio Wireless Headphones",
+      "category": "Digital Product",
+      "price": 210,
+      "qty": 41,
+      "image": "/img/stock2.jpg",
+      "colors": [
+        "#000000",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Silk Maxi Dress",
+      "category": "Fashion",
+      "price": 210,
+      "qty": 120,
+      "image": "/img/stock3.jpg",
+      "colors": [
+        "#8E2A5A",
+        "#101340"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy S10",
+      "category": "Mobile",
+      "price": 699,
+      "qty": 28,
+      "image": "/img/stock4.jpg",
+      "colors": [
+        "#000000",
+        "#4D8DF5",
+        "#E8BC4A"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Velvet Party Gown",
+      "category": "Fashion",
+      "price": 320,
+      "qty": 58,
+      "image": "/img/stock3.jpg",
+      "colors": [
+        "#8E2A5A",
+        "#4338F2",
+        "#000000"
+      ]
+    },
+    {
+      "name": "phone",
+      "category": "Electronic",
+      "price": 1000000,
+      "qty": 1,
+      "image": "/img/stock1.jpg",
+      "colors": [
+        "#000000"
+      ],
+      "id": 13
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "text": "Meeting with CEO",
+      "starred": false,
+      "done": false
+    },
+    {
+      "id": 2,
+      "text": "Pick up kids from school",
+      "starred": true,
+      "done": false
+    },
+    {
+      "id": 3,
+      "text": "Shopping with Brother",
+      "starred": false,
+      "done": false
+    },
+    {
+      "id": 4,
+      "text": "Review with HR",
+      "starred": false,
+      "done": true
+    },
+    {
+      "id": 5,
+      "text": "Going to Dias School",
+      "starred": false,
+      "done": false
+    },
+    {
+      "id": 6,
+      "text": "Check design files",
+      "starred": true,
+      "done": false
+    },
+    {
+      "id": 7,
+      "text": "Update File",
+      "starred": false,
+      "done": false
+    }
+  ]
+}
