@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Apple Watch Series 4",
       "category": "Watches",
-      "price": 120,
+      "price": 120.0,
       "stars": 4,
       "count": 131,
       "image": "/img/watch-black.jpg",
@@ -24,7 +24,7 @@
       "id": 3,
       "name": "Apple Watch SE",
       "category": "Watches",
-      "price": 89,
+      "price": 89.0,
       "stars": 4,
       "count": 212,
       "image": "/img/stock1.jpg",
@@ -54,7 +54,7 @@
       "id": 6,
       "name": "Garmin Venu Sport",
       "category": "Watches",
-      "price": 175,
+      "price": 175.0,
       "stars": 5,
       "count": 54,
       "image": "/img/stock1.jpg",
@@ -64,7 +64,7 @@
       "id": 7,
       "name": "Microsoft Headsquare",
       "category": "Headphones",
-      "price": 190,
+      "price": 190.0,
       "stars": 4,
       "count": 45,
       "image": "/img/stock2.jpg",
@@ -74,7 +74,7 @@
       "id": 8,
       "name": "Studio Wireless Headphones",
       "category": "Headphones",
-      "price": 210,
+      "price": 210.0,
       "stars": 5,
       "count": 176,
       "image": "/img/stock2.jpg",
@@ -104,7 +104,7 @@
       "id": 11,
       "name": "Women's Evening Dress",
       "category": "Fashion",
-      "price": 640,
+      "price": 640.0,
       "stars": 5,
       "count": 35,
       "image": "/img/stock3.jpg",
@@ -114,7 +114,7 @@
       "id": 12,
       "name": "Silk Maxi Dress",
       "category": "Fashion",
-      "price": 210,
+      "price": 210.0,
       "stars": 4,
       "count": 71,
       "image": "/img/stock3.jpg",
@@ -124,7 +124,7 @@
       "id": 13,
       "name": "Velvet Party Gown",
       "category": "Fashion",
-      "price": 320,
+      "price": 320.0,
       "stars": 4,
       "count": 29,
       "image": "/img/stock3.jpg",
@@ -144,7 +144,7 @@
       "id": 15,
       "name": "Samsung A50",
       "category": "Mobile",
-      "price": 400,
+      "price": 400.0,
       "stars": 4,
       "count": 67,
       "image": "/img/stock4.jpg",
@@ -154,7 +154,7 @@
       "id": 16,
       "name": "Samsung Galaxy S10",
       "category": "Mobile",
-      "price": 699,
+      "price": 699.0,
       "stars": 5,
       "count": 118,
       "image": "/img/stock4.jpg",
@@ -174,7 +174,7 @@
       "id": 18,
       "name": "OnePlus 7T",
       "category": "Mobile",
-      "price": 549,
+      "price": 549.0,
       "stars": 5,
       "count": 86,
       "image": "/img/stock4.jpg",
@@ -184,7 +184,7 @@
       "id": 19,
       "name": "Realme 5 Pro",
       "category": "Mobile",
-      "price": 179,
+      "price": 179.0,
       "stars": 3,
       "count": 59,
       "image": "/img/stock4.jpg",
@@ -194,7 +194,7 @@
       "id": 20,
       "name": "Canon Retro Film Camera",
       "category": "Electronics",
-      "price": 420,
+      "price": 420.0,
       "stars": 4,
       "count": 52,
       "image": "/img/stock5.jpg",
@@ -204,7 +204,7 @@
       "id": 21,
       "name": "Vintage SLR Camera",
       "category": "Electronics",
-      "price": 289,
+      "price": 289.0,
       "stars": 4,
       "count": 41,
       "image": "/img/stock5.jpg",
@@ -214,7 +214,7 @@
       "id": 22,
       "name": "Mirrorless Camera Kit",
       "category": "Electronics",
-      "price": 899,
+      "price": 899.0,
       "stars": 5,
       "count": 77,
       "image": "/img/stock5.jpg",
@@ -224,7 +224,7 @@
       "id": 23,
       "name": "Camera Tripod",
       "category": "Electronics",
-      "price": 50,
+      "price": 50.0,
       "stars": 4,
       "count": 63,
       "image": "/img/stock5.jpg",
@@ -234,7 +234,7 @@
       "id": 24,
       "name": "Action Cam 4K",
       "category": "Electronics",
-      "price": 139,
+      "price": 139.0,
       "stars": 3,
       "count": 48,
       "image": "/img/stock5.jpg",
@@ -349,15 +349,6 @@
       "phone": "",
       "gender": "",
       "photo": "/img/team12.jpg"
-    },
-    {
-      "name": "vaishnavi vaishnavi",
-      "role": "repair",
-      "email": "vaishu@gmail.com",
-      "phone": "6383220095",
-      "gender": "Female",
-      "photo": "/img/avatar.jpg",
-      "id": 13
     }
   ],
   "contacts": [
@@ -402,13 +393,6 @@
       "email": "chaya.shields@ferry.info",
       "phone": "",
       "photo": "/img/contact6.jpg"
-    },
-    {
-      "name": "vaishnavi vaishnavi",
-      "email": "vaishnavi@gamil.com",
-      "phone": "6383220095",
-      "photo": "/img/avatar.jpg",
-      "id": 7
     }
   ],
   "events": [
@@ -551,6 +535,41 @@
       ]
     },
     {
+      "id": 9,
+      "name": "Redmi Note 8 Pro",
+      "category": "Mobile",
+      "price": 229,
+      "qty": 95,
+      "image": "/img/stock4.jpg",
+      "colors": [
+        "#1F2F8B",
+        "#A3204A"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Vintage SLR Camera",
+      "category": "Electronic",
+      "price": 289,
+      "qty": 17,
+      "image": "/img/stock5.jpg",
+      "colors": [
+        "#000000"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Apple Watch SE",
+      "category": "Digital Product",
+      "price": 280,
+      "qty": 74,
+      "image": "/img/stock1.jpg",
+      "colors": [
+        "#000000",
+        "#EE8E8E"
+      ]
+    },
+    {
       "id": 12,
       "name": "Velvet Party Gown",
       "category": "Fashion",
@@ -562,61 +581,6 @@
         "#4338F2",
         "#000000"
       ]
-    },
-    {
-      "name": "phone",
-      "category": "Electronic",
-      "price": 1000000,
-      "qty": 1,
-      "image": "/img/stock1.jpg",
-      "colors": [
-        "#000000"
-      ],
-      "id": 13
-    }
-  ],
-  "todos": [
-    {
-      "id": 1,
-      "text": "Meeting with CEO",
-      "starred": false,
-      "done": false
-    },
-    {
-      "id": 2,
-      "text": "Pick up kids from school",
-      "starred": true,
-      "done": false
-    },
-    {
-      "id": 3,
-      "text": "Shopping with Brother",
-      "starred": false,
-      "done": false
-    },
-    {
-      "id": 4,
-      "text": "Review with HR",
-      "starred": false,
-      "done": true
-    },
-    {
-      "id": 5,
-      "text": "Going to Dias School",
-      "starred": false,
-      "done": false
-    },
-    {
-      "id": 6,
-      "text": "Check design files",
-      "starred": true,
-      "done": false
-    },
-    {
-      "id": 7,
-      "text": "Update File",
-      "starred": false,
-      "done": false
     }
   ]
 }
